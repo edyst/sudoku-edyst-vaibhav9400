@@ -5,7 +5,7 @@
 html {
     box-sizing: border-box;
 }
-.tcenter {
+.tmid {
     text-align: center;
 }
 .hidden {
@@ -23,7 +23,7 @@ html {
 .leftBorder {
     border-left: 2px solid  #344861 !important;
 }
-.setup {
+.level {
     padding-left: 25%;
     padding-right: 25%;
 }
@@ -54,7 +54,7 @@ html {
 .cell:hover {
     background-color: #99badd;
 }
-.game {
+.gameon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -78,7 +78,7 @@ html {
     align-items: center;
     margin-top: 0;
 }
-.resval {
+.bottom {
     display: flex;
     justify-content: center;
     column-gap: 25px;
